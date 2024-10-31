@@ -86,12 +86,12 @@ Les utilisateurs peuvent personnaliser les informations de l'entreprise, ajuster
 
 Pour une personnalisation avancée du style, les CSS sont disponibles dans le fichier style.css.
 
-Démo Vidéo
+## Démo Vidéo
 Visionnez notre vidéo de démonstration pour voir comment utiliser toutes les fonctionnalités du générateur de devis et factures :
+https://www.youtube.com/watch?v=9pVf_WDSTUY
 
 
-
-Contact et Support
+## Contact et Support
 Pour toute question ou assistance, contactez l'équipe d'Informaclique :
 
 Email : contact@informaclique.fr
